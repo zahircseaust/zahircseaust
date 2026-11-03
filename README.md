@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  ☕ Experienced in Java, Spring Boot, Microservices, and Enterprise Application Development,Python Fast API.
+  ☕ Experienced in Java, Spring Boot, Microservices, and Enterprise Application Development.
 </p>
 
 <table align="center">
