@@ -98,15 +98,27 @@ Explore my repositories to see my practical development work.
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zahircseaust&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahircseaust&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
+  <img 
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=zahircseaust&show_icons=true&hide_border=true&theme=transparent"
+    alt="GitHub Statistics"
+  />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahircseaust&layout=compact&hide_border=true&theme=transparent"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=zahircseaust&theme=transparent&hide_border=true" alt="GitHub Contribution Streak" />
+  <img
+    width="95%"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=zahircseaust&theme=transparent&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
 </p>
 
 ---
