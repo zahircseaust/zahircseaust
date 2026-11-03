@@ -19,7 +19,7 @@ I enjoy transforming complex business requirements into practical, reliable soft
 
 | Area | Details |
 |---|---|
-| 💼 Experience | 10+ Years in Software Engineering |
+| 💼 Experience | 9+ Years in Software Engineering |
 | 🎯 Primary Focus | Backend Engineering |
 | ☕ Core Technology | Java & Spring Boot |
 | 🏗️ Architecture | Microservices & Distributed Systems |
