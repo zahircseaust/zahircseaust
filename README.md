@@ -24,14 +24,14 @@
 </p>
 
 <p align="center">
-  ☕ Experienced in Java, Spring Boot, Microservices, and Enterprise Application Development.
+  ☕ Experienced in Java, Spring Boot, Microservices, and Enterprise Application Development,Python Fast API.
 </p>
 
 <table align="center">
   <tr>
     <td align="center">💼</td>
     <td><strong>Experience</strong></td>
-    <td>10+ Years in Software Engineering</td>
+    <td>9+ Years in Software Engineering</td>
   </tr>
   <tr>
     <td align="center">☕</td>
