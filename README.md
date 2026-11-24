@@ -10,7 +10,7 @@
 
 I design, develop, and improve enterprise software solutions with an emphasis on **scalability, maintainability, security, and business value**.
 
-With more than 10 years of software engineering experience, I specialize in Java, Spring Boot, microservices, distributed systems, REST APIs, messaging, databases, and enterprise application architecture.
+With more than 9 years of software engineering experience, I specialize in Java, Spring Boot, microservices, distributed systems, REST APIs, messaging, databases, and enterprise application architecture.
 
 ---
 
