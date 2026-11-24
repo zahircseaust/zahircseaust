@@ -1,149 +1,107 @@
 # 👋 Hello, I'm MD. Zahirul Islam
 
-### Senior Software Engineer | Backend Engineering | System Architecture
+### Senior Software Engineer · Backend Engineering · System Architecture
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=zahircseaust&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/zahircseaust?label=Followers&style=flat&color=blue" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=zahircseaust&amp;label=Profile%20Views&amp;color=0e75b6&amp;style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/zahircseaust?label=Followers&amp;style=flat&amp;color=blue" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/zahircseaust?affiliations=OWNER&amp;label=Stars&amp;style=flat&amp;color=yellow" alt="GitHub Stars" />
 </p>
 
-**I design, develop, and improve enterprise software solutions with a focus on scalability, maintainability, and business value.**
+I design, develop, and improve enterprise software solutions with an emphasis on **scalability, maintainability, security, and business value**.
 
-With 10+ years of software engineering experience, I specialize in Java backend development, Spring Boot, Microservices, and enterprise application architecture.
-
-I enjoy transforming complex business requirements into practical, reliable software solutions.
+With more than 10 years of software engineering experience, I specialize in Java, Spring Boot, microservices, distributed systems, REST APIs, messaging, databases, and enterprise application architecture.
 
 ---
 
-## 🧭 Quick Overview
+## 🧭 Engineering Focus
 
-| Area | Details |
+| Area | Expertise |
 |---|---|
-| 💼 Experience | 9+ Years in Software Engineering |
-| 🎯 Primary Focus | Backend Engineering |
-| ☕ Core Technology | Java & Spring Boot |
-| 🏗️ Architecture | Microservices & Distributed Systems |
-| 📨 Messaging | Apache Kafka & RabbitMQ |
-| 🏢 Business Domain | HRMS & Enterprise Applications |
-| 🌱 Exploring | Python, FastAPI & AI Integration |
-
----
-
-## 👨‍💻 About Me
-
-- Building enterprise-level business applications.
-- Designing RESTful APIs and backend services.
-- Working with microservices and distributed communication.
-- Applying software design principles and architectural patterns.
-- Exploring event-driven systems and asynchronous processing.
-- Interested in SaaS platforms and business process automation.
-
-**Engineering philosophy:** Write clean code, design for change, and solve the actual business problem.
+| 💼 Experience | 10+ years in software engineering |
+| 🎯 Primary Focus | Backend engineering |
+| ☕ Core Technology | Java and Spring Boot |
+| 🏗️ Architecture | Microservices and distributed systems |
+| 📨 Messaging | Apache Kafka and RabbitMQ |
+| 🗄️ Data | MySQL and PostgreSQL |
+| 🌱 Exploring | Python, FastAPI, AI integration, and cloud-native development |
 
 ---
 
 ## 🛠️ Technology Stack
 
-### Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi" alt="Backend Technologies" />
-</p>
+### Backend
 
-### Messaging & Distributed Systems
-<p>
-  <img src="https://skillicons.dev/icons?i=kafka,rabbitmq" alt="Messaging Technologies" />
-</p>
+![Backend Technologies](https://skillicons.dev/icons?i=java,spring,python,fastapi)
 
-### Database & Storage
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Database Technologies" />
-</p>
+### Data and Messaging
 
-### Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css" alt="Frontend Technologies" />
-</p>
+![Messaging and Database Technologies](https://skillicons.dev/icons?i=kafka,rabbitmq,mysql,postgres)
 
-### Tools & Development Environment
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,maven,idea,vscode" alt="Development Tools" />
-</p>
+### Frontend
+
+![Frontend Technologies](https://skillicons.dev/icons?i=react,js,html,css)
+
+### Tools
+
+![Development Tools](https://skillicons.dev/icons?i=git,github,docker,maven,idea,vscode)
 
 ---
 
-## 🏛️ Architecture & Engineering Expertise
+## 🚀 Featured Work
 
-| Area | Technologies / Concepts |
+| Project | What it demonstrates |
 |---|---|
-| Application Architecture | Microservices, Layered Architecture |
-| Design Patterns | Repository Pattern, Strategy Pattern |
-| Distributed Transactions | Saga Pattern |
-| Communication | REST APIs, Event-Driven Communication |
-| Messaging | Kafka, RabbitMQ |
-| Security | Spring Security, JWT |
-| Integration | Third-party API Integration |
-| Development Practices | Clean Code, SOLID Principles, CI/CD |
+| [React + Spring Boot Microservices](https://github.com/zahircseaust/react-springboot-microservices) | A JavaScript/React front end integrated with Spring Boot microservices. |
+| [Spring Boot Registration and Login](https://github.com/zahircseaust/springboot-registration-login-springboot-security) | Registration, login, and authorization using Spring Security. |
+| [Spring Boot + React REST API](https://github.com/zahircseaust/springboot-reactjs-restapi-backend) | REST API development and React integration using Spring Boot. |
 
 ---
 
-## 🚀 Featured Projects
+## 🏛️ Architecture and Engineering Principles
 
-Explore my repositories to see my practical development work.
-
-| Project | Description |
-|---|---|
-| [React + Spring Boot Microservices](https://github.com/zahircseaust/react-springboot-microservices) | Full-stack application with a Spring Boot backend and React frontend. |
-| [Spring Boot Registration & Login](https://github.com/zahircseaust/springboot-registration-login-springboot-security) | Authentication and authorization using Spring Security. |
-| [Spring Boot + React REST API](https://github.com/zahircseaust/springboot-reactjs-restapi-backend) | Backend REST API integration with React. |
+- Microservices and layered application architecture
+- RESTful API and event-driven communication
+- Apache Kafka and RabbitMQ messaging
+- Saga pattern and distributed transaction concepts
+- Spring Security and JWT authentication
+- Third-party API integration
+- Clean Code and SOLID principles
+- CI/CD and container-based development
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <p align="center">
-  <img 
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=zahircseaust&show_icons=true&hide_border=true&theme=transparent"
-    alt="GitHub Statistics"
-  />
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahircseaust&layout=compact&hide_border=true&theme=transparent"
-    alt="Top Languages"
-  />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=zahircseaust&amp;show_icons=true&amp;hide_border=true&amp;theme=transparent" alt="GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahircseaust&amp;layout=compact&amp;hide_border=true&amp;theme=transparent" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img
-    width="95%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=zahircseaust&theme=transparent&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
+  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=zahircseaust&amp;theme=transparent&amp;hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=zahircseaust&amp;theme=github-compact&amp;hide_border=true" alt="GitHub contribution activity graph" />
 </p>
 
 ---
 
-## 📚 Currently Exploring
+## 🌱 Currently Exploring
 
-- Advanced Microservices Architecture
-- Distributed Systems and Event-Driven Design
-- Python & FastAPI
-- AI Integration in Enterprise Applications
-- SaaS Architecture and Multi-tenancy
-- Cloud-Native Application Development
+- Advanced microservices architecture
+- Distributed and event-driven systems
+- Python and FastAPI
+- AI integration in enterprise applications
+- SaaS architecture and multi-tenancy
+- Cloud-native application development
 
 ---
 
 ## 🤝 Let's Connect
 
-<p align="left">
-  <a href="https://github.com/zahircseaust">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+- [GitHub](https://github.com/zahircseaust)
+- [Profile](https://github.com/zahircseaust)
 
----
-
-<p align="center">
-  <i>"Building reliable systems. Solving meaningful problems. Engineering for the future."</i>
-</p>
+> "Building reliable systems. Solving meaningful problems. Engineering for the future."
