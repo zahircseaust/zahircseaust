@@ -18,7 +18,7 @@ With more than 9 years of software engineering experience, I specialize in Java,
 
 | Area | Expertise |
 |---|---|
-| 💼 Experience | 10+ years in software engineering |
+| 💼 Experience | 9 years in software engineering |
 | 🎯 Primary Focus | Backend engineering |
 | ☕ Core Technology | Java and Spring Boot |
 | 🏗️ Architecture | Microservices and distributed systems |
